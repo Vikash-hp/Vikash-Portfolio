@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Portfolio",
+      "imageSrc": "projects/portfolioIcon.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Weather App",
+      "imageSrc": "projects/weatherIcon.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["HTML", "CSS","NodeJs"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Vikash-hp/Nodejs-Weather-Web-App"
+    },
+    {
+      "title": "Quiz App",
+      "imageSrc": "projects/quizIcon.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["HTML", "CSS", "JS"],
+      "demo": " https://vikash-hp.github.io/Quiz-App/",
+      "source": "https://github.com/Vikash-hp/Quiz-App"
+    }
+  ]
