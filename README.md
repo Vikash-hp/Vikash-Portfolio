@@ -18,7 +18,8 @@ This is my personal portfolio website designed to showcase my skills, projects, 
 Check out the live website here: https://vikash-hp.github.io/Vikash-Portfolio/
 
 <h3>🖼️ Screenshots</h3>
-![Screenshot 2024-11-18 201451](https://github.com/user-attachments/assets/e1799ea7-3f94-4955-b220-c83ed402b9c8)
+
+![Screenshot 2024-11-18 201451](https://github.com/user-attachments/assets/e35dc6c7-af7d-4990-8e92-dd4e490cf3bb)
 
 ![Screenshot 2024-11-18 201517](https://github.com/user-attachments/assets/bb14f730-dc47-46da-a651-0b6146bf5174)
 
