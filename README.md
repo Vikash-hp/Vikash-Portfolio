@@ -1,5 +1,5 @@
-Personal Portfolio Website
-📖 Overview
+<h1>Personal Portfolio Website</h1>
+<h3>📖 Overview</h3>
 This is my personal portfolio website designed to showcase my skills, projects, and achievements. It serves as an online resume to provide insights into my technical and soft skills and allows visitors to connect with me easily.
 
 ✨ Features
