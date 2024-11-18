@@ -18,11 +18,12 @@ This is my personal portfolio website designed to showcase my skills, projects, 
 Check out the live website here: https://vikash-hp.github.io/Vikash-Portfolio/
 
 <h3>🖼️ Screenshots</h3>
-![Screenshot 2024-11-18 201451](https://github.com/user-attachments/assets/4bcb6d52-8067-4c60-9aea-83b7b193af35) <br>
-![Screenshot 2024-11-18 201517](https://github.com/user-attachments/assets/67e8b03d-c308-4b0a-82e7-d7a1a450b7a4) <br>
-![Screenshot 2024-11-18 201547](https://github.com/user-attachments/assets/d460155f-3a0a-4cd1-853b-3f603cc81879) <br>
-![Screenshot 2024-11-18 204246](https://github.com/user-attachments/assets/b80b5fd9-8548-4858-bb98-2a981468313a) <br>
-![Screenshot 2024-11-18 204305](https://github.com/user-attachments/assets/9d2cbf6d-4d35-48d0-aeaa-e6d8950ca939) <br>
+![Screenshot 2024-11-18 201451](https://github.com/user-attachments/assets/e1799ea7-3f94-4955-b220-c83ed402b9c8)
+![Screenshot 2024-11-18 201517](https://github.com/user-attachments/assets/bb14f730-dc47-46da-a651-0b6146bf5174)
+![Screenshot 2024-11-18 201547](https://github.com/user-attachments/assets/8100b9a7-6b9a-40d9-9e93-3b58639ce5d3)
+![Screenshot 2024-11-18 204246](https://github.com/user-attachments/assets/040d7fa0-61a4-4fed-8bde-78c4030e2389)
+![Screenshot 2024-11-18 204305](https://github.com/user-attachments/assets/b564f46a-3edd-4e12-9e45-92882a2de6ba)
+
 
 <h3>📝 How to Use</h3>
 Clone this repository:<br>
