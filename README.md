@@ -2,8 +2,8 @@
 <h3>📖 Overview</h3>
 This is my personal portfolio website designed to showcase my skills, projects, and achievements. It serves as an online resume to provide insights into my technical and soft skills and allows visitors to connect with me easily.
 
-✨ Features
-Responsive Design: Fully functional on all devices (desktop, tablet, and mobile).
+<h3>✨ Features</h3>
+<b>Responsive Design</b>: Fully functional on all devices (desktop, tablet, and mobile).
 About Me Section: Overview of who I am and my professional journey.
 Skills Section: Highlights of my technical expertise in DSA, web development, and soft skills.
 Projects Section: A curated list of my top projects with descriptions, technologies used, and links to GitHub repositories.
