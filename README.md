@@ -37,7 +37,7 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 <h3>🧑‍💻 About Me</h3>
 Hi! I'm Vikash Kumar, a 3rd-year Computer Science and Engineering student at NIT Patna. I'm passionate about Data Structures and Algorithms, Web Development, and building projects that solve real-world problems.<br>
 
-📬 Contact Me
+📬 Contact Me <br>
 Email: [vikash2206133@gmail.com] <br>
 LinkedIn: https://www.linkedin.com/in/vikash-kumar-8b665a259/ <br>
 GitHub: https://github.com/Vikash-hp/
